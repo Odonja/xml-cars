@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Name>kia</Name>
+    <Weight>700</Weight>
+  </Car>
+  <Car>
+    <Name>toyota</Name>
+    <Weight>1200</Weight>
+  </Car>
+  <Car>
+    <Name>tank</Name>
+    <Weight>8000</Weight>
+  </Car>
+</cars>
