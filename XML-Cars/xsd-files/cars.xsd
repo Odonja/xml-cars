@@ -3,7 +3,7 @@
 	<xsd:element name="cars">
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element maxOccurs="unbounded" name="Car">
+				<xsd:element maxOccurs="unbounded" minOccurs="0" name="Car">
 					<xsd:complexType>
 						<xsd:sequence>
 							<xsd:element name="Name" type="xsd:string" />
